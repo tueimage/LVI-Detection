@@ -8,7 +8,7 @@ This repository contains code and models for detecting Lymphovascular Invasion (
 - [Framework](#framework)
 - [Results](#results)
 - [Reference](#reference)
--[Acknowledgements](#acknowledgements)
+- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
