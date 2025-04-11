@@ -15,5 +15,8 @@ Lymphovascular invasion (LVI) is a crucial feature in breast cancer, linked to a
 
 ## Framework
 
-![Framework](framework.png)
-*Figure 1: Overview of the Proposed Framework.*
+<p align="center">
+  <img src="framework.png" alt="Framework">
+  <br>
+  <em>Figure 1: Overview of the Proposed Framework.</em>
+</p>
