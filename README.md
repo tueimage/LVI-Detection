@@ -7,7 +7,7 @@ This repository contains code and models for detecting Lymphovascular Invasion (
 - [Overview](#overview)
 - [Framework](#framework)
 - [Results](#results)
-- [Acknowledgments](#acknowledgments)
+- [Reference](#reference)
 
 ## Overview
 
@@ -31,3 +31,21 @@ Lymphovascular invasion (LVI) is a crucial feature in breast cancer, linked to a
 </p>
 
 
+## Reference
+
+Please consider citing the following paper if you find our work useful for your project.
+
+
+```
+@InProceedings{,
+  title = {},
+  author = {},
+  booktitle = {},
+  pages = {},
+  year = {2025},
+  volume = {},
+  series = {},
+  month = {},
+  publisher = {},
+}
+```
