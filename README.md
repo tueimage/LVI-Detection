@@ -1,6 +1,6 @@
 # LVI-Detection
 
-This repository contains code and models for detecting Lymphovascular Invasion (LVI) in breast cancer tissues using deep learning techniques. The approach is based on Multiple Instance Learning (MIL) and leverages histological data for the automated classification of cancerous tissues.
+This repository contains code and models for detecting Lymphovascular Invasion (LVI) in breast cancer tissues using deep learning techniques. 
 
 ## Table of Contents
 
