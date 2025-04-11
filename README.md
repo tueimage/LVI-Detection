@@ -8,6 +8,7 @@ This repository contains code and models for detecting Lymphovascular Invasion (
 - [Framework](#framework)
 - [Results](#results)
 - [Reference](#reference)
+-[Acknowledgements](#acknowledgements)
 
 ## Overview
 
@@ -29,6 +30,11 @@ Lymphovascular invasion (LVI) is a crucial feature in breast cancer, linked to a
   <br>
   <em>Figure 2: Left: A WSI with predictions from Swin-Small. Right: The same WSI with predictions from GigaPath. The predicted LVI locations are highlighted with red boxes, while the ground-truth LVI locations are marked with green boxes.</em>
 </p>
+
+## Acknowledgements
+This project uses the code and pre-trained weights provided by [GigaPath](https://github.com/prov-gigapath/prov-gigapath) and [timm](https://github.com/huggingface/pytorch-image-models). We have modified the original code to adapt it for our specific task of LVI detection in breast cancer whole-slide images.
+
+We thank the GigaPath and timm library teams for making their code and model weights publicly available.
 
 
 ## Reference
