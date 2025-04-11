@@ -1,0 +1,12 @@
+<ASAP_Annotations>
+	<Annotations>
+	</Annotations>
+	<AnnotationGroups>
+		<Group Name="ground truth" PartOfGroup="None" Color="#00aa00">
+			<Attributes />
+		</Group>
+		<Group Name="predicted" PartOfGroup="None" Color="#ff0000">
+			<Attributes />
+		</Group>
+	</AnnotationGroups>
+</ASAP_Annotations>
