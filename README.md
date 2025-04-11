@@ -1,4 +1,4 @@
-# Lymphovascular Invasion (LVI) Detection in Breast Cancer Using Deep Learning
+# Lymphovascular Invasion Detection in Breast Cancer Using Deep Learning
 
 This repository contains code and models for detecting Lymphovascular Invasion (LVI) in breast cancer tissues using deep learning techniques. The approach is based on Multiple Instance Learning (MIL) and leverages histological data for the automated classification of cancerous tissues.
 
@@ -19,4 +19,13 @@ Lymphovascular invasion (LVI) is a crucial feature in breast cancer, linked to a
   <img src="framework.png" alt="Framework">
   <br>
   <em>Figure 1: Overview of the Proposed Framework. (a) Training Phase: (I) LVI foci are annotated by two pathologists, with a third resolving disagreements. (II) Swin-Small uses extracted patches for fine-tuning. (III) GigaPath tessellates the WSI and extracts patch embeddings for binary classification. (b) Inference Phase: (1) Swin-Small predicts patch-wise probabilities using tessellation and sliding window, with postprocessing to identify LVI. (2) GigaPath computes patch probabilities in one step, followed by postprocessing to locate LVI.</em>
+</p>
+
+## Results
+
+<p align="left">
+  <img src="swin_8.png" alt="swin_8">
+  <img src="giga_8.png" alt="giga_8">
+  <br>
+  <em>Figure 2: Left: A WSI with predictions from Swin-Small. Right: The same WSI with predictions from GigaPath. The predicted LVI locations are highlighted with red boxes, while the ground-truth LVI locations are marked with green boxes.</em>
 </p>
