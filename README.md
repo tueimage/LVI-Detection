@@ -24,8 +24,8 @@ Lymphovascular invasion (LVI) is a crucial feature in breast cancer, linked to a
 ## Results
 
 <p align="left">
-  <img src="swin_8.png" alt="swin_8" width="300">
-  <img src="giga_8.png" alt="giga_8" width="300">
+  <img src="swin_8.png" alt="swin_8" width="400">
+  <img src="giga_8.png" alt="giga_8" width="400">
   <br>
   <em>Figure 2: Left: A WSI with predictions from Swin-Small. Right: The same WSI with predictions from GigaPath. The predicted LVI locations are highlighted with red boxes, while the ground-truth LVI locations are marked with green boxes.</em>
 </p>
